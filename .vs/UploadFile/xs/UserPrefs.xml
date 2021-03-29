@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{551DAF82-A67D-448D-BB9F-760F5C1E0A21}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="UploadFile/Controllers/UploadController.cs">
+    <Files>
+      <File FileName="UploadFile/Controllers/UploadController.cs" Line="26" Column="44" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="UploadFile" expanded="True">
+            <Node name="UploadFile" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="UploadController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.UploadFile PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
